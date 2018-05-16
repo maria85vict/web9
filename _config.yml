@@ -1,0 +1,16 @@
+title: Создание сайтов в Киеве
+url: "http://ua-blog-web.tk"
+permalink: /:title.html
+lang: ru-UA
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
